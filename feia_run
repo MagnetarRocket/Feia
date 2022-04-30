@@ -3,6 +3,8 @@
 # note that with the expection of one or two, IBM unixes show serial numbers only on "-m", this script is also not for them at all. This script is ment for 
 # real-time graphics programs like video-games running on unix.
 
+#!/bin/sh
+
 case "$(uname -s -m)" in 
 	Darwin arm64)
 		echo "runing for darwin on arm_64"
