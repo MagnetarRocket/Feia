@@ -1,2 +1,6 @@
-# Feia
-A oddly named workaround for fat-binarys on linux, uses shell scripting and should work on any system, just read the readme for details. 🚀
+# Insert name here
+
+## To start:
+To run "Insert name here" just type ./feia-run.sh
+
+## detials:
