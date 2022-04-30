@@ -4,22 +4,22 @@
 # real-time graphics programs like video-games running on unix.
 
 case "$(uname -s -m)"in 
-	"Darwin arm64")
+	Darwin arm64)
 		echo"runing for darwin on arm_64"
 		./Architecture/Aarch64/Darwin/not_serious_del
 	;;
   
-	"Linux aarch64")
+	Linux aarch64)
 		echo"runing for linux on arm_64"
 		./
 	;;
   
-	"Darwin x86_64")
+	Darwin x86_64)
 		echo"runing for darwin on x86_64"
 		./Architecture/Aarch64/Darwin/not_serious_delx8664
 	;;
   
-	"Linux x86_64")
+	Linux x86_64)
 		echo"runing for linux on x86_64"
 		./
 	;;
