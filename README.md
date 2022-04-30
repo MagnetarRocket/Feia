@@ -1,7 +1,7 @@
 # Insert name here
 
 ## To start:
-To run "Insert name here" just type ./feia-run.sh
+To run "Insert name here" just type sh ./feia-run.sh
 
 ## details:
 
