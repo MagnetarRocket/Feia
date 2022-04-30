@@ -1,6 +1,6 @@
 # rename to the filename apropite to the intended app. Also add in as many platforms as needed.
 
-# note that IBM unixes show serial numbers only on "-m", this script is also not for them at all. This script is ment for 
+# note that with the expection of one, IBM unixes show serial numbers only on "-m", this script is also not for them at all. This script is ment for 
 # real-time graphics programs like video-games running on unix.
 
 case "$(uname -s -m)" in 
