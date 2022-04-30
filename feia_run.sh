@@ -5,7 +5,7 @@
 
 case "$(uname -s -m)" in 
 	Darwin arm64)
-		echo"runing for darwin on arm_64"
+		echo "runing for darwin on arm_64"
 		./Architecture/Aarch64/Darwin/not_serious_del
 	;;
   
